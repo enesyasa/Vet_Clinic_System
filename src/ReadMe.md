@@ -5,6 +5,8 @@ Bu proje veteriner personeli tarafından kullanılmak üzere tasarlanmıştır.
 
 Uyulamayı çalıştırmak için: http://localhost:8047
 
+* ![Org charts (1)](https://github.com/enesyasa/Vet_Clinic_System/assets/108360836/e0227f3c-b37f-419e-b3f4-afc1f6467fb5)
+
 Veteriner yönetim sistemi API'si  temel özellikleri:
 
 Hayvanların ve Sahiplerinin (customer) Yönetimi
@@ -14,7 +16,7 @@ Hayvanların ve Sahiplerinin (customer) Yönetimi
 * Hayvan sahiplerinin ismine göre filtreleme ve hayvan isimlerine göre filtreleme 
 * Hayvan sahibinin sistemde kayıtlı tüm hayvanlarını görüntüleme. Hayvan sahibine göre hayvanlara filtreleme yapma.
 
-* ![Org charts (1)](https://github.com/enesyasa/Vet_Clinic_System/assets/108360836/e0227f3c-b37f-419e-b3f4-afc1f6467fb5)
+
 
 
 Uygulanan Aşıların Yönetimi
